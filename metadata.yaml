@@ -1,0 +1,39 @@
+_repo: The-Rover-Boys-on-a-Tour--or-Last-Days-at-Brill-College_36179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: Set off for adventure with the mischievous but essentially good-hearted
+  trio of brothers known as the Rover Boys. In this book, the last entry in the original
+  Rover Boys series, the boys are striding toward the conclusion of their school careers,
+  a milestone they decide to celebrate with a grand tour. What will these quintessentially
+  American lads think about the wider world? Find out in The Rover Boys on a Tour.
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sports stories'
+- !lcsh 'College students -- Juvenile fiction'
+- !lcsh 'Floods -- Juvenile fiction'
+- !lcsh 'Automobile travel -- Juvenile fiction'
+title: The Rover Boys on a Tour; or, Last Days at Brill College
+url: http://www.gutenberg.org/ebooks/36179
